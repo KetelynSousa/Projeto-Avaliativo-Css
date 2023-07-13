@@ -105,16 +105,18 @@ button{
 }
 
 
-@media only screen and (min-width:321px) 
+/* @media screen and (min-width:320px)  
 {
     body{
         background-color: #292929;
+        margin-left: 300px;
+  
     }
     
     aside{
         background-color: rgb(0, 0, 0);
         width: 100%;
-        max-width: 290px;
+        max-width: 300px;
         height: auto; 
         float: left;
         clear: both;
@@ -223,7 +225,6 @@ button{
         padding: 5px;
     }
     
-}
 
 
 
